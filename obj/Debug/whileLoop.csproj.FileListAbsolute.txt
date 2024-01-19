@@ -1,0 +1,8 @@
+G:\DOT_NET_PRACTICE\whileLoop\bin\Debug\whileLoop.exe.config
+G:\DOT_NET_PRACTICE\whileLoop\bin\Debug\whileLoop.exe
+G:\DOT_NET_PRACTICE\whileLoop\bin\Debug\whileLoop.pdb
+G:\DOT_NET_PRACTICE\whileLoop\obj\Debug\whileLoop.csproj.AssemblyReference.cache
+G:\DOT_NET_PRACTICE\whileLoop\obj\Debug\whileLoop.csproj.SuggestedBindingRedirects.cache
+G:\DOT_NET_PRACTICE\whileLoop\obj\Debug\whileLoop.csproj.CoreCompileInputs.cache
+G:\DOT_NET_PRACTICE\whileLoop\obj\Debug\whileLoop.exe
+G:\DOT_NET_PRACTICE\whileLoop\obj\Debug\whileLoop.pdb
